@@ -1,1 +1,1 @@
-# Bangla-Handwritten-character-recognasition-
+# Bangla-Handwritten-character-recognition-
