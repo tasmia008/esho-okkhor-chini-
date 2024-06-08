@@ -1,4 +1,4 @@
-# Eshe_Okkhor-Chini
+# Esho_Okkhor-Chini
 Overview
 This project focuses on recognizing Bangla handwritten characters using a Convolutional Neural Network (CNN) implemented with PyTorch. The model is trained on a dataset of handwritten characters, and various techniques are used for data preprocessing, model training, and evaluation. Additionally, LIME (Local Interpretable Model-agnostic Explanations) is utilized to interpret the model’s predictions.
 
